@@ -1,0 +1,30 @@
+{
+  "name": "chatty-timer",
+  "version": "0.0.0",
+  "description": "A timer that is chatty",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisbodhi/chatty"
+  },
+  "keywords": [
+    "timer"
+  ],
+  "author": "chrisbodhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbodhi/chatty/issues"
+  },
+  "homepage": "https://github.com/chrisbodhi/chatty",
+  "private": "true",
+  "dependencies": {
+    "express": "^4.8.7",
+    "jade": "^1.5.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
