@@ -22,7 +22,9 @@
   "private": "true",
   "dependencies": {
     "express": "^4.8.7",
-    "jade": "^1.5.0"
+    "jade": "^1.5.0",
+    "speechjs": "0.0.1",
+    "timer.js": "^0.2.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5"
